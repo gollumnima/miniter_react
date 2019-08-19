@@ -1,0 +1,62 @@
+.right_wrap {
+  width: 100%;
+  .bar_wrap {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+  }
+  .twitwit {
+    width: 100%;
+  }
+  .write_doorits {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+    height: 230px;
+    background-color: #c1e5e6;
+    align-content: center;
+    justify-content: center;
+  }
+
+  .write_doorits_input {
+    width: 85%;
+    height: 120px;
+    border: none;
+    border-radius: 10px;
+  }
+
+  .doorit_btn {
+    color: white;
+    background-color: #687979;
+    border: none;
+    border-radius: 10px;
+    width: 50px;
+    margin-left: 40%;
+    margin-top: 20px;
+    height: 30px;
+  }
+
+  .doorits_box {
+    background-color: white;
+    border-bottom: 0.5px solid #bdbdbd;
+  }
+
+  .name_btn {
+    margin-top: 15px;
+    background: none;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .post_time {
+    color: #bdbdbd;
+    font-size: 13px;
+  }
+
+  .post_txt {
+    font-size: 17px;
+    margin-left: 8px;
+  }
+}

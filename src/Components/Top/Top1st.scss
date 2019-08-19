@@ -1,0 +1,46 @@
+.top1st_wrap {
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  /*바 부분*/
+  .dooriter_bar {
+    background-color: #364040;
+    color: #bbbbbb;
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    position: sticky;
+    height: 50px;
+    top: 0;
+    z-index: 1;
+  }
+
+  .dooriter_bar_left_1 {
+    align-items: center;
+    display: inline-flex;
+    margin: 5%;
+  }
+  .dooriter_bar_left_2 {
+    margin: 25%;
+  }
+
+  .bar_company {
+    margin-left: 20px;
+  }
+
+  .color_2nd_bar {
+    background-color: #6b7f80;
+    height: 270px;
+    width: 100%;
+  }
+
+  .wecode {
+    color: rgb(255, 255, 255);
+    font-size: 8em;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 0.5em;
+  }
+}

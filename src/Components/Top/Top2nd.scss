@@ -1,0 +1,27 @@
+.doorits_box {
+  background-color: white;
+
+  ul {
+    margin: 0px;
+  }
+
+  li {
+    padding: 5px;
+    list-style-type: none;
+    font-size: 0.9em;
+    margin-left: 40px;
+  }
+
+  .bold {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    height: 30px;
+  }
+
+  .light {
+    font-size: 15px;
+    text-align: center;
+    margin-top: -10px;
+  }
+}
